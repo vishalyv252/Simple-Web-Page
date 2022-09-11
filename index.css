@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: cursive;
+}
+body{
+    background-image: url(./web\ app\ background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100% ;
+}
+.cli{
+    padding: 10px;
+    margin: 10px;
+    font-size: 45px;
+    color:white ;
+}
+.cc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    
+}
+.a{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.a:hover{
+    background-color: gold;
+    color: black;
+    transition: 0.5s;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.d{
+    padding: 10px;
+    margin: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 10%;
+}
+.d:hover{
+    background-color: gold;
+    color: black;
+    transition: 0.5s;
+}
+.e{
+    background-color: green;
+}
